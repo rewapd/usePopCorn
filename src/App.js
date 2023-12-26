@@ -60,7 +60,7 @@ import StarRating from "./components/StarRating";
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
 
-const KEY = "9a8e4f30";
+const KEY = "f539e1c2";
 
 export default function App() {
   const [movies, setMovies] = useState([]);
