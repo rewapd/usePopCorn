@@ -78,7 +78,7 @@ body {
   border-top: 5px solid white;
   animation: loaderSpinner 0.5s steps(50) infinite normal;
   text-align: center;
-  margin: 50% 50%;
+  margin: 50% 45%;
   /*text-transform: uppercase;
   font-size: 2rem;
   font-weight: 600;
